@@ -1,0 +1,24 @@
+*{
+    font-family: "Poppins" , sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.formButton {
+    background-color: rgb(36, 8, 102);
+    outline: 0;
+}
+.formButton:hover{
+    color: #000;
+    background-color: gray;
+}
+.footer{
+    background-color: rgb(36, 8, 102);
+    
+}
+.menu {
+    transition: 0.5s;
+}
+
+#menu1:hover {
+    color: orangered;
+}
