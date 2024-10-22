@@ -15,10 +15,4 @@
     background-color: rgb(36, 8, 102);
     
 }
-.menu {
-    transition: 0.5s;
-}
 
-#menu1:hover {
-    color: orangered;
-}
